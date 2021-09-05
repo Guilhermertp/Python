@@ -1,2 +1,2 @@
-# Python-
+# Python
  Python programming language concepts
